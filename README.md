@@ -17,11 +17,11 @@ Binary Search
 [-입국심사](https://github.com/hyoo14/coding-study/blob/main/Programmers/BinarySearch_%EC%9E%85%EA%B5%AD%EC%8B%AC%EC%82%AC.ipynb)   
 [-징검다리](https://github.com/hyoo14/coding-study/blob/main/Programmers/BinarySearch_%EC%A7%95%EA%B2%80%EB%8B%A4%EB%A6%AC.ipynb)   
 
-Heap  
+Heap   
 
-[-더 맵게]()
-[-디스크 컨트롤러]()
-[-이중우선순위큐]()
+[-더 맵게](https://github.com/hyoo14/coding-study/blob/main/Programmers/HEAP_%EB%8D%94%20%EB%A7%B5%EA%B2%8C.ipynb)  
+[-디스크 컨트롤러](https://github.com/hyoo14/coding-study/blob/main/Programmers/HEAP_%EB%94%94%EC%8A%A4%ED%81%AC%20%EC%BB%A8%ED%8A%B8%EB%A1%A4%EB%9F%AC.ipynb)  
+[-이중우선순위큐]()  
    
 Dynamic Programming
 
