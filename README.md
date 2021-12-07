@@ -16,6 +16,12 @@ Binary Search
    
 [-입국심사](https://github.com/hyoo14/coding-study/blob/main/Programmers/BinarySearch_%EC%9E%85%EA%B5%AD%EC%8B%AC%EC%82%AC.ipynb)   
 [-징검다리](https://github.com/hyoo14/coding-study/blob/main/Programmers/BinarySearch_%EC%A7%95%EA%B2%80%EB%8B%A4%EB%A6%AC.ipynb)   
+
+Heap  
+
+[-더 맵게]()
+[-디스크 컨트롤러]()
+[-이중우선순위큐]()
    
 Dynamic Programming
 
