@@ -27,5 +27,5 @@ Dynamic Programming
 
 etc  
 
-[-나머지 한 점]()  
-[-]()  
+[-나머지 한 점](https://github.com/hyoo14/coding-study/blob/main/Programmers/etc_%EB%82%98%EB%A8%B8%EC%A7%80%20%ED%95%9C%20%EC%A0%90.ipynb)  
+[-삼각형 별찍기](https://github.com/hyoo14/coding-study/blob/main/Programmers/etc_%EC%82%BC%EA%B0%81%ED%98%95%20%EB%B3%84%EC%B0%8D%EA%B8%B0.ipynb)  
