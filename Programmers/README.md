@@ -23,4 +23,9 @@ Heap
 Dynamic Programming
 
 [-N으로 표현](https://github.com/hyoo14/coding-study/blob/main/Programmers/DynamicProgramming_N%EC%9C%BC%EB%A1%9C%20%ED%91%9C%ED%98%84.ipynb)   
-[-정수 삼각형](https://github.com/hyoo14/coding-study/blob/main/Programmers/DynamicProgramming_%EC%A0%95%EC%88%98%20%EC%82%BC%EA%B0%81%ED%98%95.ipynb)
+[-정수 삼각형](https://github.com/hyoo14/coding-study/blob/main/Programmers/DynamicProgramming_%EC%A0%95%EC%88%98%20%EC%82%BC%EA%B0%81%ED%98%95.ipynb)  
+
+etc  
+
+[-나머지 한 점]()  
+[-]()  
