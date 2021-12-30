@@ -8,6 +8,7 @@ BFS / DFS
 Binary Search  
 [C-MinMaxDivision](https://github.com/hyoo14/coding-study/blob/main/EngPlatform/Codility_BinarySearch_MinMaxDivision.ipynb)  
 [C-NailingPlanks](https://github.com/hyoo14/coding-study/blob/main/EngPlatform/Codility_BinarySearch_NailingPlanks.ipynb)  
+[H-Ice Cream Parlor](https://github.com/hyoo14/coding-study/blob/main/EngPlatform/Hackerrank_BinarySearch_Ice%20Cream%20Parlor.ipynb)
   
 
 Heap   
