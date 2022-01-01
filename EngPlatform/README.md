@@ -16,5 +16,5 @@ Heap
 [H-Jesse and Cookies](https://github.com/hyoo14/coding-study/blob/main/EngPlatform/Hackerrank_Heap_Jesse%20and%20Cookies.ipynb)  
 
 Dynamic Programming  
-[ㅇ](ㅇ)  
+[Stock Maximize](https://github.com/hyoo14/coding-study/blob/main/EngPlatform/Hackerrank_DynamicProgramming_Stock%20Maximize.ipynb)  
 
