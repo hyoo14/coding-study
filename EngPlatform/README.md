@@ -13,7 +13,7 @@ Binary Search
   
 
 Heap   
-[ㅇ](ㅇ)  
+[H-Jesse and Cookies](https://github.com/hyoo14/coding-study/blob/main/EngPlatform/Hackerrank_Heap_Jesse%20and%20Cookies.ipynb)  
 
 Dynamic Programming  
 [ㅇ](ㅇ)  
