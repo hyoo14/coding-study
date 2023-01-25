@@ -31,7 +31,12 @@ etc
 
 [-나머지 한 점](https://github.com/hyoo14/coding-study/blob/main/Programmers/etc_%EB%82%98%EB%A8%B8%EC%A7%80%20%ED%95%9C%20%EC%A0%90.ipynb)  
 [-삼각형 별찍기](https://github.com/hyoo14/coding-study/blob/main/Programmers/etc_%EC%82%BC%EA%B0%81%ED%98%95%20%EB%B3%84%EC%B0%8D%EA%B8%B0.ipynb)  
-[-소수찾기]()
-[-성격 유형 검사]()
-[-[1차] 프렌즈4블록]()
-[점프와 순간이동]()
+
+[-소수찾기]()  
+[-성격 유형 검사]()  
+[-[1차] 프렌즈4블록]()  
+[점프와 순간이동]()    
+[방문 길이]()  
+[할인 행사]()  
+[가장 큰 수]()  
+[거리두기 확인하기]()  
